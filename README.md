@@ -1,6 +1,6 @@
 # kickstarter-analysis
 ---
-##Two files
+## Two files
 ---
-###data1-2-3 StarterBook(2) includes the Analysis in Module 1 
+### data1-2-3 StarterBook(2) includes the Analysis in Module 1 
 ---
