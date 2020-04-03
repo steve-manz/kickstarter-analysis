@@ -1,2 +1,4 @@
 # kickstarter-analysis
-Performing analysis on Kickstarter data to uncover trends
+##Two files##
+###data1-2-3 StarterBook(2) includes the Analysis in Module 1 
+---
