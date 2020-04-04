@@ -28,6 +28,7 @@
 ---
 ![Challenge Chart Outcomes Based on Goals](path/to/Challenge Chart Outcomes Based on Goals.png).
 ---
+https://github.com/steve-manz/kickstarter-analysis/blob/master/Challenge%20Chart%20Outcomes%20Based%20on%20Goals.png
 ---
 ## Outcomes Based on Launch Date
 ---
