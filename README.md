@@ -22,9 +22,9 @@
 ---
 ### 2. There were 258 (74%) successful plays, 88 (25%) failed plays and 4 (1%) canceled plays.
 ---
-### 3. The majority of the plays (95%) had goals less than $10,000. 76% were successful.
+### 3. The majority of the successful plays (95%) had goals less than $10,000. 
 ---
-### 4. There were 7 plays with goals >$15,000, and only one of them was successful
+### 4. There were 7 plays with goals >$15,000, and only one was successful, meaning that plays with bigger golas have a low probability of success.
 ---
 ![Challenge Chart Outcomes Based on Goals](path/to/Challenge Chart Outcomes Based on Goals.png).
 ---
