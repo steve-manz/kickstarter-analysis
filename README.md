@@ -9,7 +9,7 @@
 ---
 ## Outcomes Based on Goal
 ---
-### 1. THere were 350 projects in the data file
+### 1. There were 350 projects in the data file
 ---
 ### 2. There were 258 (74%) successful projects, 88 (25%) failed projects and 4 (1%) canceled projects.
 ---
@@ -17,3 +17,5 @@
 ---
 ### 4. There were 7 projects with goals >$15,000, and only one of them was successful
 ---
+![Challenge Chart Outcomes Based on Goals](path/to/Challenge Chart Outcomes Based on Goals.png)
+
