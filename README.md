@@ -17,5 +17,6 @@
 ---
 ### 4. There were 7 projects with goals >$15,000, and only one of them was successful
 ---
-![Challenge Chart Outcomes Based on Goals](path/to/Challenge Chart Outcomes Based on Goals.png)
+!Challenge Chart Outcomes Based on Goals(path/to/Challenge Chart Outcomes Based on Goals.png)
+
 
